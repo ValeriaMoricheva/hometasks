@@ -12,6 +12,7 @@ namespace Zachet
         {
             int k = 3;
             Console.WriteLine(F(k));
+            Console.ReadKey();
         }
 
         static int F(int k)
