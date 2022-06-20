@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLibrary", "HRLibrary.csproj", "{A32AEF8D-E3BF-4EC6-9BCB-3CA067EC0D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLibrary.UnitTests", "..\HRLibrary.UnitTests\HRLibrary.UnitTests.csproj", "{38E68A2B-E29D-47B4-9328-D99C2B7C9342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32AEF8D-E3BF-4EC6-9BCB-3CA067EC0D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32AEF8D-E3BF-4EC6-9BCB-3CA067EC0D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32AEF8D-E3BF-4EC6-9BCB-3CA067EC0D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32AEF8D-E3BF-4EC6-9BCB-3CA067EC0D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E68A2B-E29D-47B4-9328-D99C2B7C9342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E68A2B-E29D-47B4-9328-D99C2B7C9342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E68A2B-E29D-47B4-9328-D99C2B7C9342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E68A2B-E29D-47B4-9328-D99C2B7C9342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF0C6A71-5910-4BFF-9C36-80B720E3A259}
+	EndGlobalSection
+EndGlobal
